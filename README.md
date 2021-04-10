@@ -6,3 +6,16 @@ This project is part of the requiremnts for W266: Natural Language Processing wi
 
 ## Final Report
 You can find the final paper for this project in this repo, or clicking [here](./W266_FinalProjectReport.pdf)
+
+## Datasets
+We used Wikipedia data to create the baseline corpus in our experiment. We got a dump file with over 50,000,000 articles. It is publicaly available [here.](https://dumps.wikimedia.org/enwiki/latest/) We used the dump called [enwiki-latest-pages-articles.xml.bz2.](https://dumps.wikimedia.org/enwiki/latest/)
+
+We also used the US Census to get last names and race data. We downloaded the [Decennial Census Surname Files (2010, 2000)](https://www.census.gov/data/developers/data-sets/surnames.html) that can be found [here](https://www.census.gov/data/developers/data-sets/surnames.html)
+
+## Corpus, Embeddings and their Code
+
+## Experiments
+
+## Other Papers' Code
+
+## Contact
