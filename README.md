@@ -18,9 +18,11 @@ In total we generated 8 corpora and generated 8 embeddings using word2vec and ap
 In the drive you will also find code to generate corpora from Counterfactual Data Augmentation (CDA), we experimented with these models but did not reported on them because of the long time they required to train.
 
 ## Experiments
+In the forlder [experiments](./experiments) you will find the code corresponding to [sentiment analysis](./experiments/sentiment_analysis_experiments/), [word analogies](./experiments/word_analogies_experiments/), and [direct and indirect racial bias](./experiments/direct_indirect_bias/).
 
-In the forlder ex
+In order to run these you will need to get the datasets and models described above from the [public google drive](https://drive.google.com/drive/folders/1nOpc3ULXsW9aIwnMD4uZvD9Uot34RHdL?usp=sharing) of this project
 
 ## Other Papers' Code
+
 
 ## Contact
