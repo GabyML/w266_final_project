@@ -15,7 +15,11 @@ We also used the US Census to get last names and race data. We downloaded the [D
 ## Corpus, Embeddings and their Code
 In total we generated 8 corpora and generated 8 embeddings using word2vec and applying CDS with last name intervention. The code to generate the corpora with CDS, to train the embeddings with the resulting corpora, and the resulting files with the models are [all in this google drive](https://drive.google.com/drive/folders/1nOpc3ULXsW9aIwnMD4uZvD9Uot34RHdL?usp=sharing). 
 
+In the drive you will also find code to generate corpora from Counterfactual Data Augmentation (CDA), we experimented with these models but did not reported on them because of the long time they required to train.
+
 ## Experiments
+
+In the forlder ex
 
 ## Other Papers' Code
 
