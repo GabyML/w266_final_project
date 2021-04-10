@@ -13,6 +13,7 @@ We used Wikipedia data to create the baseline corpus in our experiment. We got a
 We also used the US Census to get last names and race data. We downloaded the [Decennial Census Surname Files (2010, 2000)](https://www.census.gov/data/developers/data-sets/surnames.html) that can be found [here](https://www.census.gov/data/developers/data-sets/surnames.html)
 
 ## Corpus, Embeddings and their Code
+In total we generated 8 corpora and generated 8 embeddings using word2vec and applying CDS with last name intervention. The code to generate the corpora with CDS, to train the embeddings with the resulting corpora, and the resulting files with the models are [all in this google drive](https://drive.google.com/drive/folders/1nOpc3ULXsW9aIwnMD4uZvD9Uot34RHdL?usp=sharing). 
 
 ## Experiments
 
