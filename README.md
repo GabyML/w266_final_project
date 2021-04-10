@@ -4,3 +4,5 @@ This repository contains (or gives links to) the code, data sets, embeddings, mo
 
 This project is part of the requiremnts for W266: Natural Language Processing with Deep Learning, of the Master in Information and Data Science program at UC Berkely. 
 
+## Final Report
+You can find the final paper for this project in this repo, or clicking [here](w266_final_project/W266_FinalProjectReport.pdf)
