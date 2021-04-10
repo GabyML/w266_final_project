@@ -28,5 +28,6 @@ Before starting our project we studied the code of revelant papers in the subjec
 ## Contact
 For any feedback, questions or comments, please contact the authors:
 
-Gabriela May Lagunes - g.maylagunes@berkeley.edu
 Aditya Mengani - aditya.mengani@ischool.berkeley.edu
+
+Gabriela May Lagunes - g.maylagunes@berkeley.edu
