@@ -2,7 +2,7 @@
 
 This repository contains (or gives links to) the code, data sets, embeddings, models and analysis generated and used for the project <em>All Names Matter: Mitigating Racial Bias in Word Embeddings with Last Name-Based Counterfactual Data Substitution</em>.
 
-This project is part of the requiremnts for W266: Natural Language Processing with Deep Learning, of the Master in Information and Data Science program at UC Berkely. 
+This project is part of the requiremnts for W266: Natural Language Processing with Deep Learning, of the Master in Information and Data Science program at UC Berkeley. 
 
 ## Final Report
 You can find the final paper for this project in this repo, or clicking [here](./W266_FinalProjectReport.pdf)
@@ -23,6 +23,10 @@ In the forlder [experiments](./experiments) you will find the code corresponding
 In order to run these you will need to get the datasets and models described above from the [public google drive](https://drive.google.com/drive/folders/1nOpc3ULXsW9aIwnMD4uZvD9Uot34RHdL?usp=sharing) of this project
 
 ## Other Papers' Code
-
+Before starting our project we studied the code of revelant papers in the subject. We concentrated all the relevant repositories [here](https://github.com/aditya-mengani/reducing_gender_and_racial_bias)
 
 ## Contact
+For any feedback, questions or comments, please contact the authors:
+
+Gabriela May Lagunes - g.maylagunes@berkeley.edu
+Aditya Mengani - aditya.mengani@ischool.berkeley.edu
